@@ -62,6 +62,11 @@ const config = {
             position: 'left',
             label: '教程',
           },
+          {
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
