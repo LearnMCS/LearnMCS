@@ -2,46 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 教程介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+本教程主要针对没有开服基础的新手开服，以CraftBukkit系核心为基础,
 
-## Getting Started
+欢迎加入**[QQ群](https://jq.qq.com/?_wv=1027&k=5v31lJZY)**交流讨论
 
-Get started by **creating a new site**.
+## 人员介绍
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+教程主要编写人员(团队): **The Simples**
 
-### What you'll need
+本教程主负责人员: Itz_Dr_Li
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 合作服务商
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+[创世云联](https://www.mcicp.cn/)

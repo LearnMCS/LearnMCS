@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '首先',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        你需要一台能够流畅运行Minecraft任意Java版本的
+        Windows/Mac/Linux电脑.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '其次',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        你需要具备一定的基础知识和理解能力，
+        例如如何使用控制台，如何安装/使用Java，
+        以及编写简易的脚本(bat/sh)等.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '最后',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        无论你想学习开哪种类型的服务器，
+        请确保你有足够的金钱，
+        用于服务器租赁/插件购买/定制等等.
       </>
     ),
   },
