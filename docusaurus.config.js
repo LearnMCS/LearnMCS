@@ -63,7 +63,7 @@ const config = {
             label: '教程',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/The-Simples/LearnMCS/',
             label: 'GitHub',
             position: 'right',
           },
