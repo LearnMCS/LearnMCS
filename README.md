@@ -1,6 +1,6 @@
 # 教你开服
 
-本站基于Docusaurus，由@itzdrli搭建，由[vercel](https://vercel.com)搭建
+本站基于Docusaurus，由@itzdrli搭建，由[vercel](https://vercel.com)托管
 
 ### 我可以转载'教你开服'里的内容吗？
 
