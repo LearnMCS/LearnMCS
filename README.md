@@ -17,3 +17,8 @@ npm install
 npm start(以测试/开发模式运行)
 npm run build(以正常模式运行)
 ```
+
+### 赞助
+
+[爱发电](https://afdian.net/@ts-itzdrli)
+[Ko-Fi](https://ko-fi.com/thesimples)
