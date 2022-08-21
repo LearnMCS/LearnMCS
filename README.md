@@ -1,41 +1,19 @@
-# Website
+# 教你开服
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+本站基于Docusaurus，由@itzdrli搭建，由[vercel](https://vercel.com)托管
 
-### Installation
+### 我可以转载'教你开服'里的内容吗？
 
-```
-$ yarn
-```
+可以，但是请**注明来源+网址**。
 
-### Local Development
+### 如何使用
 
-```
-$ yarn start
-```
+clone到本地后打开命令行并cd到储存文件的文件夹，
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+并确保安装了最新版的NodeJS(16+)，输入
 
 ```
-$ yarn build
+npm install
+npm start(以测试/开发模式运行)
+npm run build(以正常模式运行)
 ```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
