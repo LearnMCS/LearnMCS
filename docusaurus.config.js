@@ -68,11 +68,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '教程',
+            title: '合作服务器/服务商',
             items: [
               {
-                label: '主教程',
-                to: '/docs/intro',
+                label: '创世云联',
+                to: 'https://www.mcicp.cn/',
               },
             ],
           },
@@ -88,10 +88,6 @@ const config = {
           {
             title: '更多',
             items: [
-              {
-                label: '博客',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/The-Simples/LearnMCS',
