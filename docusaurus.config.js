@@ -67,6 +67,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://jq.qq.com/?_wv=1027&k=5v31lJZY',
+            label: 'QQ群',
+            position: 'right',
+          },
         ],
       },
       footer: {
