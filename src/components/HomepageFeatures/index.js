@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        你需要具备一定的基础知识和理解能力，
+        你需要具备一定的计算机基础知识、语文理解能力以及基本的英语水平，
         例如如何使用控制台，如何安装/使用Java，
         以及编写简易的脚本(bat/sh)等.
       </>
