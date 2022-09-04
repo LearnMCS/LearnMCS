@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'The-Silples', // Usually your GitHub org/user name.
+  organizationName: 'The-Simples', // Usually your GitHub org/user name.
   projectName: 'LearnMCS', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
