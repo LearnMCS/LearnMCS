@@ -95,5 +95,3 @@ boolean: #布尔值的显示方式
 date_format: MM/dd/yy HH:mm:ss #时间显示格式，MM为月; dd为日; yy为年; HH为小时/时; mm为分; ss为秒.
 debug: false #debug模式，正常情况下不用动.
 ```
-
-好啦，本文就是关于PlaceholderAPI的基本用法啦, 码字不易，如果喜欢的话记得点点star，赞助一下噢！
