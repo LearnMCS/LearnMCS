@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            开始学习
+            开始跑路
           </Link>
         </div>
       </div>
@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`欢迎`}
-      description="最业余的方式教你开最专业的服">
+      description="最业余的方式教你跑最专业的路">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

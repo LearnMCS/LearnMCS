@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        你需要一台能够流畅运行Minecraft任意Java版本的
-        Windows/Mac/Linux电脑.
+        你需要两条（多几条也不是不行）会跑的腿
+        （手脚并用也行）
       </>
     ),
   },
@@ -18,20 +18,19 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        你需要具备一定的计算机基础知识、语文理解能力以及基本的英语水平，
-        例如如何使用控制台，如何安装/使用Java，
-        以及编写简易的脚本(bat/sh)等.
+        你需要足够快的手速和脑子即可在跑路的同时
+        光速解散你的群并删除所有好友
       </>
     ),
   },
   {
-    title: '最后',
+    title: '最后，我们是谁？',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        无论你想学习开哪种类型的服务器，
-        请确保你有足够的金钱，
-        用于服务器租赁/插件购买/定制等等.
+        我们是谁？
+        The Simples是一个专业提供各种跑路方案的公益性团队，
+        如果你喜欢我们，记得支持我们一下噢！
       </>
     ),
   },

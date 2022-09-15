@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '教你开服',
-  tagline: '以最简单，最业余的方式教你开最专业的服',
+  title: '教你跑路',
+  tagline: '以最简单，最业余的方式教你跑最专业的路',
   url: 'https://kf.potato-server.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '教你开服',
+        title: '教你跑路',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
@@ -60,7 +60,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '教程',
+            label: '开始跑路',
           },
           {
             href: 'https://github.com/The-Simples/LearnMCS/',
