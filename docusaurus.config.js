@@ -87,7 +87,7 @@ const config = {
             ],
           },
           {
-            title: '社区',
+            title: '跑路交流',
             items: [
               {
                 label: 'QQ群',
