@@ -1,7 +1,9 @@
 ---
-sidebar_position: 2
+title: PlaceholderAPI
+description: ''
+position: 11
+category: 插件操作
 ---
-
 # PlaceHolderAPI
 
 现在你应该在本教程前几章的学习以及不停地折磨群友之后学会了怎么开服，

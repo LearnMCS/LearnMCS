@@ -1,5 +1,8 @@
 ---
-sidebar_position: 3
+title: Vault
+description: ''
+position: 12
+category: 插件操作
 ---
 
 # Vault

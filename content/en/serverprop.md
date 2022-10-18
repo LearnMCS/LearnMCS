@@ -1,5 +1,8 @@
 ---
-sidebar_position: 2
+title: server.properties文件
+description: ''
+position: 7
+category: 基本操作
 ---
 
 # 关于 server.properties
@@ -20,7 +23,7 @@ sidebar_position: 2
 
 ## 关于 /reload (confirm)
 
-<code>/reload (confirm)</code> 是由Minecraft官方提供的一个一个指令，用于重载整个Minecraft服务端，
+<code>/reload (confirm)</code> 是由Minecraft官方提供的一个指令，用于重载整个Minecraft服务端，
 
 其中CraftBukkit系服务端需要在执行 <code>/reload</code> 后再次执行 <code>/reload confirm</code> 进行二次确认.
 
