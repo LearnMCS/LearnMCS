@@ -4,8 +4,6 @@ description: ''
 position: 11
 category: 插件操作
 ---
-# PlaceHolderAPI
-
 现在你应该在本教程前几章的学习以及不停地折磨群友之后学会了怎么开服，
 
 现在让我来教教你如何使用一些几乎每个服务端必备的那些API/插件.
