@@ -1,9 +1,3 @@
----
-title: DecentHolograms
-description: ''
-position: 13
-category: 插件操作
----
 ## 这是什么?
 
 是不是看见过其他服务器里炫酷的浮空字？

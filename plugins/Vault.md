@@ -1,9 +1,3 @@
----
-title: Vault
-description: ''
-position: 12
-category: 插件操作
----
 ## 什么是Vault
 
 Vault是一个为各种权限/聊天/经济插件提供集中接口的插件，

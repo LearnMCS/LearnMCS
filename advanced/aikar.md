@@ -1,9 +1,3 @@
----
-title: Aikar's Flags
-description: ''
-position: 14
-category: 高端操作
----
 # 高级启动脚本(Aikar's Flags)
 
 ## 什么是Aikar's Flags?

@@ -1,11 +1,4 @@
----
-title: 准备工作
-description: ''
-position: 2
-category: 介绍
----
-
-# 跑路前的基本准备
+# 开服前的基本准备
 
 ## 硬件条件
 

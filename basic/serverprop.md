@@ -1,10 +1,3 @@
----
-title: server.properties文件
-description: ''
-position: 7
-category: 基本操作
----
-
 # 关于 server.properties
 
 ## 什么是server.properties？
