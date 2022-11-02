@@ -8,10 +8,6 @@
 
 教程归属团队: **The Simples**
 
-由创世云联赞助提供
+**本教程由[创世云联](https://www.mcicp.cn/)赞助提供**
 
 教程主负责人员: Itz_Dr_Li
-
-## 合作服务商
-
-[创世云联](https://www.mcicp.cn/)

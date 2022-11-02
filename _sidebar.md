@@ -22,7 +22,9 @@
   - [PlaceholderAPI](plugins/PlaceHolderAPI.md)
   - [Vault](plugins/Vault.md)
   - [DecentHolograms](plugins/Holo.md)
+  - [LuckPerms](plugins/LuckPerms.md)
 
 - 高端操作
 
   - [Aikar's Flags](advanced/aikar.md)
+  - [权限系统](advanced/perm.md)
