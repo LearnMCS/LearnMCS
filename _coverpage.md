@@ -1,7 +1,5 @@
 ![logo](logo.png)
 
-# LearnMCS <small>3.0.1</small>
-
 > By The-Simples.
 - 入门2年的老萌新
 - 以最简单的方式
