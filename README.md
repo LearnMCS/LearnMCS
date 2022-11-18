@@ -10,4 +10,6 @@
 
 **本教程由[创世云联](https://www.mcicp.cn/)赞助提供**
 
+**好玩的Minecraft服务器：mc.dlmc.cc**
+
 教程主负责人员: Itz_Dr_Li

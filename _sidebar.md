@@ -14,7 +14,7 @@
   - [服务端结构](basic/结构.md)
   - [server.properties文件](basic/serverprop.md)
   - [安装插件](basic/安装插件.md)
-  - [常用插件推荐](basic/插件列表.md)
+  - [美化服务端](basic/美化.md)
 
 - 插件操作
 
