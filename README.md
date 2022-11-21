@@ -6,8 +6,6 @@
 
 ## 人员介绍
 
-教程归属团队: **The Simples**
-
 **本教程由[创世云联](https://www.mcicp.cn/)赞助提供**
 
 **好玩的Minecraft服务器：mc.dlmc.cc**
