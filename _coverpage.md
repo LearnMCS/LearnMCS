@@ -1,7 +1,7 @@
 ![logo](logo.png)
 
-> By The-Simples.
-- 入门2年的老萌新
+> By LearnMCS项目组.
+- 入门2年的老萌新们
 - 以最简单的方式
 - 教你开最专业的服
 
