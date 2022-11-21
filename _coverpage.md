@@ -6,4 +6,4 @@
 - 教你开最专业的服
 
 [QQ群](https://jq.qq.com/?_wv=1027&k=5v31lJZY)
-[开始学习](#README)
+[开始学习](README)
