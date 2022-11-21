@@ -2,7 +2,9 @@
 
   - [欢迎](README.md)
   - [准备工作](intro/start.md)
-
+- 操作系统
+  - [Linux](OS/linux.md)
+  - [Windows](OS/windows.md)
 - 服务端核心
 
   - [常见的服务端核心](core/常见核心.md)
