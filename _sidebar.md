@@ -2,9 +2,10 @@
 
   - [欢迎](README.md)
   - [准备工作](intro/start.md)
-- 操作系统
+- 系统选择
   - [Linux](os/linux.md)
   - [Windows](os/windows.md)
+  - [安装Java](os/java.md)
 - 服务端核心
 
   - [常见的服务端核心](core/常见核心.md)
