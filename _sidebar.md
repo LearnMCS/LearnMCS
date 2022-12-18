@@ -31,3 +31,7 @@
 
   - [Aikar's Flags](advanced/aikar.md)
   - [权限系统](advanced/perm.md)
+
+- 群组
+
+  - [入门](group/init.md)

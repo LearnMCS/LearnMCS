@@ -9,10 +9,3 @@
 **本教程由[创世云联](https://www.mcicp.cn/)赞助提供**
 
 教程主负责人员: Itz_Dr_Li
-
-
-## 如果觉得本文档还不从的话欢迎打赏一杯咖啡哦
-
-![wx.jpg](qrcode/wx.jpg)
-
-![zfb.jpg](qrcode/zfb.jpg)
